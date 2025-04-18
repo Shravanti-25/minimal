@@ -1,5 +1,4 @@
 
-
 # Singa Shravanti
 
 **Tech enthusiast** | **Innovation Seeker** | **Forever learning** | 
