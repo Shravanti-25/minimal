@@ -1,123 +1,77 @@
+
+
+# Singa Shravanti
+
+**Tech enthusiast** | **Innovation Seeker** | **Forever learning** | 
+
+Passionate about **Java**, **OOPs**, and **Software Development**  
+Currently pursuing **B.Tech in Information Technology** at **BVRIT Narsapur**  
+Always curious to explore and learn new technologies 🚀  
+
 ---
-layout: default
+
+## 📌 About Me
+
+Hi! I’m Singa Shravanti, a tech-savvy individual aiming to become a skilled software developer.  
+With a strong foundation in Java, OOPs, and a love for learning, I enjoy building projects that solve real-world problems.
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 🛠️ Skills and Tools
 
-[Link to another page](./another-page.html).
+- **Languages**: Java, C, SQL  
+- **Web**: HTML, CSS, PHP, MySQL  
+- **Concepts**: OOPs, DSA, Operating Systems, Computer Networks,Software Development Lifecycle.
+- **Tools**: Git, GitHub  
+- **Coding Platforms**:  
+  [LeetCode](https://leetcode.com/u/Singa_Shravanti/) | [CodeChef](https://www.codechef.com/users/shravanti25)
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+---
 
 
-### Definition lists can be used with HTML syntax.
+## 💼 Experience
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### 🔹 Software Development Engineer Intern — *Zeta*
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Currently working as a **Software Development Engineer Intern** at **Zeta**, where I’m exploring and learning advanced technologies.  
+Focused on building scalable solutions while continuously upgrading my skills.  
+Aiming to **grow with the organization** and contribute meaningfully to impactful projects.
 
-```
-The final element.
-```
+---
+
+
+## 💼 Projects
+
+### 🔹 [Sources for Learning](https://github.com/Shravanti-25/Sources-for-learning)
+
+A static web application designed to help beginners find the best curated tech courses including videos, podcasts, and paid/unpaid resources.  **Tech Stack**: PHP, MySQL, HTML, CSS
+
+### 🔹 [Real-Time Sign Language Detection](https://github.com/Shravanti-25/Sign_language_detection)
+
+A CNN-based machine learning model that detects sign language in real-time and translates it into text to aid communication for the hearing and speech impaired. **Tech Stack** : Python.
+
+---
+
+## 💻 Experience
+
+- **Organizer**, Entrepreneurship Cell & Technical Events (e.g., Code-Craft in PROMETHEAN-2K24)  
+- Successfully executed events like **code hunt**, **debugging**, and **blind coding**
+
+---
+
+## 🏆 Achievements
+
+- 🥇 10 CGPA in SSC and 986/1000 in Intermediate  
+- 🥇 Top CGPA in Department (9.22)  
+- 🥇 Certified Smart Coder (Global Rank: 5122 in DSA course by Smart Interviews)  
+- 🥇 Certified in Java, C, Soft Skills via Infosys & NPTEL
+
+---
+
+## 🤝 Let’s Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/Shravanti-25)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/singa-shravanti-a29039250/)  
+📧 [shravantisinga@gmail.com](mailto:shravantisinga@gmail.com)
+
+---
